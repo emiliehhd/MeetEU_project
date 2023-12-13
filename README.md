@@ -1,3 +1,3 @@
 # MEET-U Project
 
-Team : Isabelle Wu, Brenda Enriquez, Birsu Guzel, Emilie Doan
+Team : Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
