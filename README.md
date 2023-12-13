@@ -1,3 +1,5 @@
 # MEET-U Project
 
-Team : Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
+Team : Isabelle Wu, Birsu Guzel, Brenda Enriquez and Emilie Doan
+
+## Molzip
