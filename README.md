@@ -15,6 +15,8 @@ Team members: Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
 - main_molzip_result.ipynb : contains code that predicts the affinity of potential ligands for our problem.
   
 - neural_network.ipynb : contains code that predicts separately,  affinity values and categorized kd values of the LP_PDBind.csv dataset.
+  
+- classification.py : contains the tests done to create different categories, train using LP_PDBind.csv with proposed ML models: Random Forest, AdaBoost, KNeighbors, GradientBoosting, and SVM, and test to find ligands on pilot_library.csv dataset.
 
 
 
