@@ -48,8 +48,6 @@ Use different machine learning method with the idea of compress like Molzip.
 Unconventional method based on the information theory. This method can predict different features relatively well based on the compression rate (Gzip). We accurately predict the solubility rate of different ligands and compared it to real solubility. We think that we can also use it to get other features as molecular weight.
 
 
-## Neural Network
-
 ## Result
 
 - result_molzip.csv : result from main_molzip_result.ipynb
