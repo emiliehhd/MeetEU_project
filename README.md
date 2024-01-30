@@ -13,6 +13,8 @@ Team members: Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
 - pdbbind.ipynb : code allows you to check the relevance of the dataset of LP_PDBBind.csv.
 
 - main_molzip_result.ipynb : contains code that predicts the affinity of potential ligands for our problem.
+  
+- neural_network.ipynb : contains code that predicts separately,  affinity values and categorized kd values of the LP_PDBind.csv dataset.
 
 
 
