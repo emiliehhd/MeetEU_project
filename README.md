@@ -46,4 +46,8 @@ Unconventional method based on the information theory. This method can predict d
 
 ## Neural Network
 
+## Result
+
+- result_molzip.csv : result from main_molzip_result.ipynb
+
 
